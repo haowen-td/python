@@ -1,0 +1,2 @@
+# python
+mayapy_tool
